@@ -1,0 +1,539 @@
+Instance,Prédiction
+1,Secteur dactivité  Informatique
+2,Secteur dactivité  Informatique
+3,Secteur dactivité  Banque  Finance
+4,Secteur dactivité  Banque  Finance
+5,Secteur dactivité  Pharmacie  Santé
+6,Secteur dactivité  Centre dappel
+7,Secteur dactivité  Centre dappel
+8,Secteur dactivité  Informatique
+9,Secteur dactivité  Autres services
+10,Secteur dactivité  Distribution  Cosmétique  Parfumerie  Luxe
+11,Secteur dactivité  Automobile  Motos  Cycles
+12,Secteur dactivité  Autres services
+13,Secteur dactivité  Enseignement  Formation
+14,Secteur dactivité  Pharmacie  Santé  Recrutement  Intérim
+15,Secteur dactivité  Banque  Finance
+16,Secteur dactivité  Autres services
+17,Secteur dactivité  Autres services
+18,Secteur dactivité  Hôtellerie  Restauration
+19,Secteur dactivité  Informatique  Internet  Multimédia
+20,Secteur dactivité  Informatique
+21,Secteur dactivité  Pharmacie  Santé
+22,Secteur dactivité  Pharmacie  Santé
+23,Secteur dactivité  Pharmacie  Santé
+24,Secteur dactivité  Agroalimentaire
+25,Secteur dactivité  Informatique
+26,Secteur dactivité  Informatique
+27,Secteur dactivité  Enseignement  Formation
+28,Secteur dactivité  Enseignement  Formation
+29,Secteur dactivité  Enseignement  Formation
+30,Secteur dactivité  Indifférent
+31,Secteur dactivité  Distribution
+32,Secteur dactivité  Pharmacie  Santé  Recrutement  Intérim
+33,Secteur dactivité  Banque  Finance
+34,Secteur dactivité  Banque  Finance
+35,Secteur dactivité  Autres services
+36,Secteur dactivité  Banque  Finance
+37,Secteur dactivité  Agence pub  Marketing Direct  Agroalimentaire
+38,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+39,Secteur dactivité  Informatique
+40,Secteur dactivité  Informatique
+41,Secteur dactivité  Centre dappel  Informatique
+42,Secteur dactivité  Banque  Finance
+43,Secteur dactivité  Banque  Finance
+44,Secteur dactivité  Banque  Finance
+45,Secteur dactivité  Banque  Finance
+46,Secteur dactivité  Automobile  Motos  Cycles
+47,Secteur dactivité  Banque  Finance
+48,Secteur dactivité  Banque  Finance
+49,Secteur dactivité  Banque  Finance
+50,Secteur dactivité  Banque  Finance
+51,Secteur dactivité  Agriculture  Environnement
+52,Secteur dactivité  Autres services
+53,Secteur dactivité  Autres services
+54,Secteur dactivité  Energie
+55,Secteur dactivité  Energie
+56,Secteur dactivité  Energie
+57,Secteur dactivité  Hôtellerie  Restauration  Indifférent
+58,Secteur dactivité  Hôtellerie  Restauration  Indifférent
+59,Secteur dactivité  Informatique
+60,Secteur dactivité  Enseignement  Formation
+61,Secteur dactivité  Energie
+62,Secteur dactivité  Import  Export  Négoce
+63,Secteur dactivité  Banque  Finance
+64,Secteur dactivité  Hôtellerie  Restauration
+65,Secteur dactivité  Informatique
+66,Secteur dactivité  Assurance  Courtage  Centre dappel
+67,Secteur dactivité  Assurance  Courtage  Centre dappel
+68,Secteur dactivité  Assurance  Courtage  Centre dappel
+69,Secteur dactivité  Conseil  Etudes
+70,Secteur dactivité  Informatique
+71,Secteur dactivité  Automobile  Motos  Cycles
+72,Secteur dactivité  Automobile  Motos  Cycles
+73,Secteur dactivité  Service public  Administration
+74,Secteur dactivité  Conseil  Etudes
+75,Secteur dactivité  Agroalimentaire  Indifférent
+76,Secteur dactivité  Banque  Finance
+77,Secteur dactivité  Assurance  Courtage  Banque  Finance
+78,Secteur dactivité  Informatique
+79,Secteur dactivité  Assurance  Courtage  Banque  Finance
+80,Secteur dactivité  Informatique
+81,Secteur dactivité  Informatique
+82,Secteur dactivité  Informatique
+83,Secteur dactivité  Pharmacie  Santé
+84,Secteur dactivité  Autres services
+85,Secteur dactivité  Enseignement  Formation
+86,Secteur dactivité  Energie
+87,Secteur dactivité  Energie
+88,Secteur dactivité  Energie
+89,Secteur dactivité  Energie
+90,Secteur dactivité  Energie
+91,Secteur dactivité  Energie
+92,Secteur dactivité  Informatique
+93,Secteur dactivité  Electricité  Autres Industries
+94,Secteur dactivité  Hôtellerie  Restauration
+95,Secteur dactivité  Informatique
+96,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+97,Secteur dactivité  Autres services
+98,Secteur dactivité  Autres services
+99,Secteur dactivité  Banque  Finance
+100,Secteur dactivité  Banque  Finance
+101,Secteur dactivité  Automobile  Motos  Cycles  Autres Industries
+102,Secteur dactivité  Pharmacie  Santé
+103,Secteur dactivité  Informatique  Telecom
+104,Secteur dactivité  Autres Industries
+105,Secteur dactivité  Offshoring  Nearshoring
+106,Secteur dactivité  Banque  Finance
+107,Secteur dactivité  Electricité  Autres Industries
+108,Secteur dactivité  Electricité  Autres Industries
+109,Secteur dactivité  Informatique
+110,Secteur dactivité  Informatique
+111,Secteur dactivité  Informatique
+112,Secteur dactivité  Informatique
+113,Secteur dactivité  Automobile  Motos  Cycles
+114,Secteur dactivité  Enseignement  Formation  Telecom
+115,Secteur dactivité  Agroalimentaire  Chimie  Parachimie  Peintures
+116,Secteur dactivité  Automobile  Motos  Cycles
+117,Secteur dactivité  Autres services
+118,Secteur dactivité  Enseignement  Formation
+119,Secteur dactivité  Enseignement  Formation
+120,Secteur dactivité  Centre dappel
+121,Secteur dactivité  Centre dappel
+122,Secteur dactivité  Agroalimentaire
+123,Secteur dactivité  Banque  Finance
+124,Secteur dactivité  Centre dappel  Hôtellerie  Restauration
+125,Secteur dactivité  Assurance  Courtage  Banque  Finance
+126,Secteur dactivité  Distribution
+127,Secteur dactivité  Automobile  Motos  Cycles
+128,Secteur dactivité  Offshoring  Nearshoring
+129,PME  IT  Telecom
+130,Secteur dactivité  Energie
+131,Secteur dactivité  Informatique
+132,Secteur dactivité  Banque  Finance  Informatique
+133,Secteur dactivité  Informatique
+134,Secteur dactivité  Distribution
+135,Secteur dactivité  Distribution
+136,Secteur dactivité  Distribution
+137,Secteur dactivité  Enseignement  Formation
+138,Secteur dactivité  Enseignement  Formation
+139,Secteur dactivité  Autres services
+140,Secteur dactivité  Autres services
+141,Secteur dactivité  Informatique
+142,Secteur dactivité  Autres services
+143,Secteur dactivité  Informatique
+144,Secteur dactivité  Informatique
+145,Secteur dactivité  Informatique
+146,Secteur dactivité  Informatique
+147,Secteur dactivité  Assurance  Courtage  Banque  Finance
+148,Secteur dactivité  Communication  Evénementiel
+149,Secteur dactivité  Aéronautique  Spatial  Agroalimentaire
+150,Secteur dactivité  Automobile  Motos  Cycles
+151,Secteur dactivité  Aéronautique  Spatial  Agroalimentaire
+152,Secteur dactivité  Informatique
+153,Secteur dactivité  Aéronautique  Spatial  Agroalimentaire
+154,Secteur dactivité  Agroalimentaire  Chimie  Parachimie  Peintures
+155,Secteur dactivité  Informatique
+156,PME  IT  Telecom
+157,Secteur dactivité  Informatique
+158,Secteur dactivité  Informatique
+159,Secteur dactivité  Informatique
+160,Secteur dactivité  Informatique
+161,Secteur dactivité  Informatique
+162,Secteur dactivité  Informatique
+163,Secteur dactivité  Hôtellerie  Restauration
+164,Secteur dactivité  Hôtellerie  Restauration
+165,Secteur dactivité  Recrutement  Intérim  Indifférent
+166,Secteur dactivité  Informatique
+167,Secteur dactivité  Autres services
+168,Secteur dactivité  Informatique
+169,Secteur dactivité  Informatique
+170,Secteur dactivité  Electricité
+171,Secteur dactivité  Electricité  Autres Industries
+172,Secteur dactivité  Informatique
+173,Secteur dactivité  Banque  Finance
+174,Secteur dactivité  Banque  Finance
+175,Secteur dactivité  Banque  Finance
+176,Secteur dactivité  Comptabilité  Audit
+177,Secteur dactivité  Distribution
+178,Secteur dactivité  Automobile  Motos  Cycles
+179,Secteur dactivité  Automobile  Motos  Cycles
+180,Secteur dactivité  Service public  Administration
+181,Secteur dactivité  Enseignement  Formation  Telecom
+182,Secteur dactivité  Centre dappel  Informatique
+183,Secteur dactivité  Automobile  Motos  Cycles
+184,Secteur dactivité  Automobile  Motos  Cycles
+185,Secteur dactivité  Service public  Administration
+186,Secteur dactivité  Informatique
+187,Secteur dactivité  Service public  Administration
+188,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+189,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+190,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+191,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+192,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+193,Secteur dactivité  Centre dappel
+194,Secteur dactivité  Indifférent
+195,Secteur dactivité  Conseil  Etudes  Informatique
+196,Secteur dactivité  Conseil  Etudes  Informatique
+197,Secteur dactivité  Conseil  Etudes  Informatique
+198,Secteur dactivité  Conseil  Etudes  Informatique
+199,Secteur dactivité  Offshoring  Nearshoring
+200,Secteur dactivité  Comptabilité  Audit  Immobilier  Promoteur  Agence
+201,Secteur dactivité  Autres services
+202,Secteur dactivité  Informatique
+203,Secteur dactivité  Pharmacie  Santé
+204,Secteur dactivité  Banque  Finance
+205,Secteur dactivité  Automobile  Motos  Cycles
+206,Secteur dactivité  Informatique
+207,Secteur dactivité  Informatique
+208,Secteur dactivité  Autres services
+209,Secteur dactivité  Centre dappel
+210,Secteur dactivité  Informatique
+211,Secteur dactivité  Agroalimentaire  Autres Industries
+212,Secteur dactivité  Centre dappel
+213,Secteur dactivité  Agroalimentaire  Autres Industries
+214,Secteur dactivité  Immobilier  Promoteur  Agence
+215,Secteur dactivité  Immobilier  Promoteur  Agence
+216,Secteur dactivité  Immobilier  Promoteur  Agence
+217,Secteur dactivité  Centre dappel
+218,Secteur dactivité  Immobilier  Promoteur  Agence
+219,Secteur dactivité  Immobilier  Promoteur  Agence
+220,Secteur dactivité  Autres services
+221,Secteur dactivité  Comptabilité  Audit
+222,Secteur dactivité  Banque  Finance
+223,Secteur dactivité  Banque  Finance
+224,Secteur dactivité  Distribution
+225,Secteur dactivité  Pharmacie  Santé
+226,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+227,Secteur dactivité  Autres services
+228,Secteur dactivité  Enseignement  Formation
+229,Secteur dactivité  Assurance  Courtage  Banque  Finance
+230,Secteur dactivité  Pharmacie  Santé
+231,Secteur dactivité  Pharmacie  Santé
+232,Secteur dactivité  Electricité  Autres Industries
+233,Secteur dactivité  Agroalimentaire
+234,Secteur dactivité  Enseignement  Formation
+235,Secteur dactivité  Indifférent
+236,Secteur dactivité  Informatique
+237,Secteur dactivité  Indifférent
+238,Secteur dactivité  Electricité  Autres Industries
+239,Secteur dactivité  Conseil  Etudes  Informatique
+240,Secteur dactivité  Conseil  Etudes  Informatique
+241,Secteur dactivité  Assurance  Courtage  Banque  Finance
+242,Secteur dactivité  Informatique
+243,Secteur dactivité  Informatique
+244,Secteur dactivité  Informatique
+245,Secteur dactivité  Banque  Finance  Informatique
+246,Secteur dactivité  Banque  Finance  Informatique
+247,Secteur dactivité  Informatique
+248,Secteur dactivité  Informatique
+249,Secteur dactivité  Autres services
+250,Secteur dactivité  Informatique
+251,Secteur dactivité  Informatique  Autres Industries
+252,Secteur dactivité  Informatique  Autres Industries
+253,Secteur dactivité  Conseil  Etudes
+254,Secteur dactivité  Telecom
+255,Secteur dactivité  Import  Export  Négoce
+256,Secteur dactivité  Pharmacie  Santé
+257,Secteur dactivité  Distribution
+258,Secteur dactivité  Electricité  Electromécanique  Mécanique
+259,Secteur dactivité  Pharmacie  Santé
+260,Secteur dactivité  Electricité  Electromécanique  Mécanique
+261,Secteur dactivité  Enseignement  Formation
+262,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+263,Secteur dactivité  Informatique
+264,Secteur dactivité  Indifférent
+265,Secteur dactivité  Autres services
+266,Secteur dactivité  Enseignement  Formation  Telecom
+267,Secteur dactivité  Enseignement  Formation  Telecom
+268,Secteur dactivité  Distribution
+269,Secteur dactivité  Pharmacie  Santé
+270,Secteur dactivité  Pharmacie  Santé
+271,Secteur dactivité  Pétrole  Gaz
+272,Secteur dactivité  Enseignement  Formation
+273,Secteur dactivité  Enseignement  Formation
+274,Secteur dactivité  Enseignement  Formation
+275,Secteur dactivité  Enseignement  Formation
+276,Secteur dactivité  Offshoring  Nearshoring
+277,Secteur dactivité  Enseignement  Formation
+278,Secteur dactivité  Enseignement  Formation
+279,Secteur dactivité  Distribution
+280,Secteur dactivité  Distribution
+281,Secteur dactivité  Distribution
+282,Secteur dactivité  Distribution
+283,Secteur dactivité  Autres services
+284,Secteur dactivité  Enseignement  Formation  Telecom
+285,Secteur dactivité  Enseignement  Formation  Telecom
+286,Secteur dactivité  Enseignement  Formation  Telecom
+287,Secteur dactivité  Enseignement  Formation  Telecom
+288,Secteur dactivité  Enseignement  Formation  Telecom
+289,Secteur dactivité  Enseignement  Formation  Telecom
+290,Secteur dactivité  Enseignement  Formation  Telecom
+291,Secteur dactivité  Enseignement  Formation  Telecom
+292,Secteur dactivité  Enseignement  Formation  Telecom
+293,Secteur dactivité  Enseignement  Formation  Telecom
+294,Secteur dactivité  Enseignement  Formation  Telecom
+295,Secteur dactivité  Enseignement  Formation  Telecom
+296,Secteur dactivité  Enseignement  Formation  Telecom
+297,Secteur dactivité  Enseignement  Formation  Telecom
+298,Secteur dactivité  Enseignement  Formation  Telecom
+299,Secteur dactivité  Enseignement  Formation  Telecom
+300,Secteur dactivité  Enseignement  Formation  Telecom
+301,Secteur dactivité  Immobilier  Promoteur  Agence
+302,Secteur dactivité  Automobile  Motos  Cycles
+303,Secteur dactivité  Informatique
+304,Secteur dactivité  Indifférent
+305,Secteur dactivité  Informatique
+306,Secteur dactivité  Autres services
+307,Secteur dactivité  BTP construction
+308,Secteur dactivité  Comptabilité  Audit
+309,Secteur dactivité  Informatique
+310,Secteur dactivité  Pharmacie  Santé  Recrutement  Intérim
+311,Secteur dactivité  Pharmacie  Santé  Recrutement  Intérim
+312,Secteur dactivité  Centre dappel  Hôtellerie  Restauration
+313,Secteur dactivité  Centre dappel
+314,Secteur dactivité  Centre dappel
+315,Secteur dactivité  Pharmacie  Santé  Recrutement  Intérim
+316,Secteur dactivité  Assurance  Courtage  Banque  Finance
+317,Secteur dactivité  Informatique
+318,Secteur dactivité  Informatique
+319,Secteur dactivité  Informatique
+320,Secteur dactivité  Agroalimentaire
+321,Secteur dactivité  BTP  Génie Civil  Distribution
+322,Secteur dactivité  Autres services
+323,Secteur dactivité  Enseignement  Formation
+324,Secteur dactivité  Agroalimentaire
+325,Secteur dactivité  Agroalimentaire
+326,Secteur dactivité  Agroalimentaire
+327,Secteur dactivité  Banque  Finance
+328,Secteur dactivité  Informatique
+329,Secteur dactivité  Informatique
+330,Secteur dactivité  Automobile  Motos  Cycles
+331,Secteur dactivité  Informatique  Autres Industries
+332,Secteur dactivité  Communication  Evénementiel
+333,Secteur dactivité  Automobile  Motos  Cycles
+334,Secteur dactivité  Enseignement  Formation
+335,Secteur dactivité  Enseignement  Formation
+336,Secteur dactivité  Enseignement  Formation
+337,Secteur dactivité  Enseignement  Formation
+338,Secteur dactivité  Enseignement  Formation
+339,Secteur dactivité  Enseignement  Formation
+340,Secteur dactivité  Enseignement  Formation
+341,Secteur dactivité  Enseignement  Formation
+342,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+343,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+344,Secteur dactivité  Informatique
+345,Secteur dactivité  Pharmacie  Santé
+346,Secteur dactivité  Informatique
+347,Secteur dactivité  Informatique
+348,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+349,Secteur dactivité  Comptabilité  Audit
+350,Secteur dactivité  Agroalimentaire  Indifférent
+351,Secteur dactivité  Automobile  Motos  Cycles
+352,Secteur dactivité  Pharmacie  Santé
+353,Secteur dactivité  Banque  Finance
+354,Secteur dactivité  Automobile  Motos  Cycles
+355,Secteur dactivité  Service public  Administration
+356,Secteur dactivité  Autres services
+357,Secteur dactivité  Informatique
+358,Secteur dactivité  Service public  Administration
+359,Secteur dactivité  Informatique
+360,Secteur dactivité  Autres services
+361,Secteur dactivité  Informatique
+362,Secteur dactivité  Electromécanique  Mécanique  Electricité
+363,Secteur dactivité  Assurance  Courtage  Banque  Finance
+364,Secteur dactivité  Agroalimentaire  Chimie  Parachimie  Peintures
+365,Secteur dactivité  Informatique
+366,Secteur dactivité  Informatique
+367,Secteur dactivité  Indifférent
+368,Secteur dactivité  Centre dappel  Informatique
+369,Secteur dactivité  Informatique
+370,Secteur dactivité  Autres Industries  Autres services
+371,Secteur dactivité  Enseignement  Formation
+372,Secteur dactivité  Enseignement  Formation
+373,Secteur dactivité  Enseignement  Formation
+374,Secteur dactivité  Immobilier  Promoteur  Agence
+375,Secteur dactivité  Informatique
+376,Secteur dactivité  Informatique
+377,Secteur dactivité  Electricité  Autres Industries
+378,Secteur dactivité  Service public  Administration
+379,Secteur dactivité  Comptabilité  Audit
+380,Secteur dactivité  Comptabilité  Audit
+381,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+382,Secteur dactivité  Automobile  Motos  Cycles  Autres Industries
+383,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+384,Secteur dactivité  Indifférent
+385,Secteur dactivité  Pharmacie  Santé
+386,Secteur dactivité  Electricité
+387,Secteur dactivité  Energie
+388,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+389,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+390,Secteur dactivité  Automobile  Motos  Cycles
+391,Secteur dactivité  Enseignement  Formation
+392,Secteur dactivité  Centre dappel  Offshoring  Nearshoring
+393,PME  IT  Telecom
+394,Secteur dactivité  Enseignement  Formation
+395,Secteur dactivité  Enseignement  Formation
+396,Secteur dactivité  Enseignement  Formation
+397,Secteur dactivité  Enseignement  Formation
+398,Secteur dactivité  Informatique
+399,Secteur dactivité  Informatique
+400,Secteur dactivité  Distribution
+401,Secteur dactivité  Conseil  Etudes  Informatique
+402,Secteur dactivité  Informatique
+403,Secteur dactivité  Automobile  Motos  Cycles
+404,Secteur dactivité  Automobile  Motos  Cycles
+405,Secteur dactivité  Comptabilité  Audit
+406,Secteur dactivité  Automobile  Motos  Cycles
+407,Secteur dactivité  Electricité  Autres Industries
+408,Secteur dactivité  Informatique
+409,Secteur dactivité  Informatique
+410,Secteur dactivité  Automobile  Motos  Cycles
+411,Secteur dactivité  Pharmacie  Santé
+412,Secteur dactivité  Pharmacie  Santé
+413,Secteur dactivité  Pétrole  Gaz
+414,Secteur dactivité  Pharmacie  Santé
+415,Secteur dactivité  Informatique
+416,Secteur dactivité  Informatique
+417,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+418,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+419,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+420,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+421,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+422,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+423,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+424,Secteur dactivité  Enseignement  Formation
+425,Secteur dactivité  Enseignement  Formation
+426,Secteur dactivité  Enseignement  Formation
+427,Secteur dactivité  Enseignement  Formation
+428,Secteur dactivité  Enseignement  Formation
+429,Secteur dactivité  Informatique  Internet  Multimédia
+430,Secteur dactivité  Centre dappel  Communication  Evénementiel
+431,Secteur dactivité  Informatique
+432,Secteur dactivité  Electricité  Autres Industries
+433,Secteur dactivité  Agroalimentaire
+434,Secteur dactivité  BTP construction
+435,Secteur dactivité  Informatique
+436,Secteur dactivité  Informatique
+437,Secteur dactivité  Agriculture  Environnement
+438,Secteur dactivité  Informatique
+439,Secteur dactivité  Electricité  Autres Industries
+440,Secteur dactivité  Pharmacie  Santé
+441,Secteur dactivité  Agroalimentaire
+442,Secteur dactivité  Enseignement  Formation
+443,Secteur dactivité  Agroalimentaire  Indifférent
+444,Secteur dactivité  Banque  Finance  Informatique
+445,Secteur dactivité  Agroalimentaire  Indifférent
+446,Secteur dactivité  Informatique
+447,Secteur dactivité  Centre dappel  Informatique
+448,Secteur dactivité  Centre dappel
+449,Secteur dactivité  Autres services
+450,Secteur dactivité  Agroalimentaire
+451,Secteur dactivité  Agroalimentaire
+452,Secteur dactivité  Pharmacie  Santé
+453,Secteur dactivité  Informatique  Autres Industries
+454,Secteur dactivité  Electricité
+455,Secteur dactivité  Electricité
+456,Secteur dactivité  Electricité
+457,Secteur dactivité  Agroalimentaire
+458,Secteur dactivité  Informatique
+459,Secteur dactivité  Comptabilité  Audit
+460,Secteur dactivité  Informatique
+461,Secteur dactivité  Informatique
+462,Secteur dactivité  Distribution
+463,Secteur dactivité  Centre dappel  Hôtellerie  Restauration
+464,Secteur dactivité  Informatique
+465,Secteur dactivité  Comptabilité  Audit
+466,Secteur dactivité  Comptabilité  Audit
+467,Secteur dactivité  Assurance  Courtage  Banque  Finance
+468,Secteur dactivité  Comptabilité  Audit
+469,Secteur dactivité  Comptabilité  Audit
+470,Secteur dactivité  Informatique
+471,Secteur dactivité  Informatique
+472,Secteur dactivité  Centre dappel  Informatique
+473,Secteur dactivité  Informatique
+474,Secteur dactivité  Centre dappel
+475,Secteur dactivité  Telecom
+476,Secteur dactivité  Service public  Administration
+477,Secteur dactivité  Pharmacie  Santé
+478,Secteur dactivité  Telecom
+479,Secteur dactivité  Telecom
+480,Secteur dactivité  Telecom
+481,Secteur dactivité  Informatique
+482,Secteur dactivité  BTP  Génie Civil
+483,Secteur dactivité  Offshoring  Nearshoring
+484,Secteur dactivité  Informatique
+485,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+486,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+487,Secteur dactivité  Informatique
+488,Secteur dactivité  Banque  Finance
+489,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+490,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+491,Secteur dactivité  Informatique
+492,Secteur dactivité  Informatique
+493,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+494,Secteur dactivité  Informatique
+495,Secteur dactivité  Informatique
+496,Secteur dactivité  Pharmacie  Santé
+497,Secteur dactivité  Informatique
+498,Secteur dactivité  Banque  Finance  Informatique
+499,Secteur dactivité  Indifférent
+500,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+501,Secteur dactivité  Distribution
+502,Secteur dactivité  Automobile  Motos  Cycles
+503,Secteur dactivité  Automobile  Motos  Cycles
+504,Secteur dactivité  Informatique
+505,Secteur dactivité  Assurance  Courtage  Banque  Finance
+506,Secteur dactivité  Informatique
+507,Secteur dactivité  Banque  Finance
+508,Secteur dactivité  Banque  Finance
+509,Secteur dactivité  Pharmacie  Santé
+510,Secteur dactivité  Pharmacie  Santé
+511,Secteur dactivité  Pharmacie  Santé
+512,Secteur dactivité  Informatique  Internet  Multimédia
+513,Secteur dactivité  Informatique
+514,Secteur dactivité  Comptabilité  Audit
+515,Secteur dactivité  Informatique
+516,Secteur dactivité  Informatique
+517,Secteur dactivité  Informatique
+518,Secteur dactivité  Informatique
+519,Secteur dactivité  Informatique
+520,Secteur dactivité  Informatique
+521,Secteur dactivité  Informatique
+522,Secteur dactivité  Chimie  Parachimie  Peintures  Extraction  Mines
+523,Secteur dactivité  Informatique
+524,Secteur dactivité  Energie
+525,Secteur dactivité  Communication  Evénementiel
+526,Secteur dactivité  Telecom
+527,Secteur dactivité  Distribution
+528,Secteur dactivité  Pharmacie  Santé
+529,Secteur dactivité  Enseignement  Formation
+530,Secteur dactivité  Hôtellerie  Restauration
+531,Secteur dactivité  Service public  Administration
+532,Secteur dactivité  Informatique
+533,Secteur dactivité  Distribution
+534,Secteur dactivité  Distribution
+535,Secteur dactivité  Pharmacie  Santé
+536,Secteur dactivité  Hôtellerie  Restauration
+537,Secteur dactivité  Distribution
+538,Secteur dactivité  Distribution
